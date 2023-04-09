@@ -1,0 +1,8 @@
+#drag {
+  text-align: center;
+  padding: 50px;
+  max-width: 200px;
+  background-color: rgb(102, 102, 102);
+  color: white;
+  cursor: pointer;
+}
